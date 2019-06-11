@@ -1,1 +1,1 @@
-*Holberton Zero Day*# holbertonschool-zero_day
+This repository contains files which contain the answers to the questions in the day sero project
