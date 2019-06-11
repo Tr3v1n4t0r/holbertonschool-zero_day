@@ -1,1 +1,1 @@
-This repository contains files which contain the answers to the questions in the day zero project
+I don't know what to change this to so I'm being super original and doing this
