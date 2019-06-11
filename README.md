@@ -1,1 +1,1 @@
-This repository contains files which contain the answers to the questions in the day sero project
+This repository contains files which contain the answers to the questions in the day zero project
