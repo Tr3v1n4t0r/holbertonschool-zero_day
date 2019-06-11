@@ -1,1 +1,1 @@
-Linux
+This directory just has the answer to what appears when you type uname into vagrant
